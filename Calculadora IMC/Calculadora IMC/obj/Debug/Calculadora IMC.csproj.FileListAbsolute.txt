@@ -1,0 +1,11 @@
+D:\Sophia Prates DDS01\SophiaPFaroni11\Calculadora\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora IMC.csproj.AssemblyReference.cache
+D:\Sophia Prates DDS01\SophiaPFaroni11\Calculadora\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora_IMC.Form1.resources
+D:\Sophia Prates DDS01\SophiaPFaroni11\Calculadora\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora_IMC.Properties.Resources.resources
+D:\Sophia Prates DDS01\SophiaPFaroni11\Calculadora\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora IMC.csproj.GenerateResource.cache
+D:\Sophia Prates DDS01\SophiaPFaroni11\Calculadora\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora IMC.csproj.CoreCompileInputs.cache
+D:\Sophia Prates DDS01\SophiaPFaroni11\Calculadora\Calculadora IMC\Calculadora IMC\bin\Debug\Calculadora IMC.exe.config
+D:\Sophia Prates DDS01\SophiaPFaroni11\Calculadora\Calculadora IMC\Calculadora IMC\bin\Debug\Calculadora IMC.exe
+D:\Sophia Prates DDS01\SophiaPFaroni11\Calculadora\Calculadora IMC\Calculadora IMC\bin\Debug\Calculadora IMC.pdb
+D:\Sophia Prates DDS01\SophiaPFaroni11\Calculadora\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora IMC.exe
+D:\Sophia Prates DDS01\SophiaPFaroni11\Calculadora\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora IMC.pdb
+D:\Sophia Prates DDS01\SophiaPFaroni11\Calculadora\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora IMC.exe.config
